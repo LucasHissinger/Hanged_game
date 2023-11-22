@@ -52,9 +52,13 @@ At the end of the game you can Replay, Stop or check the local leaderboard !
 
 ## Screenshots
 ![Capture](https://github.com/LucasHissinger/Hanged_game/assets/91745215/d1fce535-056c-487e-874f-c6944db9c187)
+
 ![1](https://github.com/LucasHissinger/Hanged_game/assets/91745215/23fe65a3-6826-4072-83bd-9c5e97c37326)
+
 ![2](https://github.com/LucasHissinger/Hanged_game/assets/91745215/a975caaf-bbcd-4986-adce-95498ea4e29f)
+
 ![3](https://github.com/LucasHissinger/Hanged_game/assets/91745215/92a77db1-6d70-4e1b-a1aa-392cff76fb3e)
+
 ![4](https://github.com/LucasHissinger/Hanged_game/assets/91745215/89c89b92-8642-4d02-82a7-400622d69deb)
 
 ## Feedback
